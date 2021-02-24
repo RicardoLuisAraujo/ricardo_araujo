@@ -1,0 +1,11 @@
+header, footer, section, div {
+  margin: 20px;
+}
+
+.Chart {
+  display: inline-block;
+} 
+
+.Inline {
+  display: inline-block;
+}
